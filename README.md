@@ -44,7 +44,7 @@ curl https://raw.githubusercontent.com/askbuddie/readme/master/README.md > READM
 
 You can `fork` the project.
 
-[![fork this repo](http://githubbadges.com/fork.svg?user=askbuddie&repo=readme&style=flat&color=fff&background=da644e)](https://github.com/askbuddie/readme/fork)
+[fork](https://github.com/askbuddie/readme/fork)
 
 You can clone the whole project.
 
