@@ -89,8 +89,6 @@ Check the [installation](#installation) section to start contributing to this pr
 
 ## Additional Details / References
 
-This repository is derived from the user [ashiishme](https://github.com/ashiishme)
-
 - https://github.com/ashiishme/readme/
  
 ## Changelog
