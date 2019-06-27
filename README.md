@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://www.askbuddie.com">
-        <img src="ask-buddie-icon-200x150.png" align="center" alt="askbuddie-icon"/>
+        <img src="https://raw.githubusercontent.com/askbuddie/readme/master/ask-buddie-icon-200x150.png" align="center" alt="askbuddie-icon"/>
     </a>
 </p>
 <h1 align="center" style="border: 0;"> Readme </h1>
@@ -44,7 +44,7 @@ curl https://raw.githubusercontent.com/askbuddie/readme/master/README.md > READM
 
 You can `fork` the project.
 
-[fork](https://github.com/askbuddie/readme/fork)
+[Fork](https://github.com/askbuddie/readme/fork)
 
 You can clone the whole project.
 
