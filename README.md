@@ -73,9 +73,15 @@ List of all Contributors:
  
 ## Contribution
 
-This project is to help Individuals / organization to quickly setup a documentation or readme. If you want to contribute, pull requests are always welcome.
+This project is to help Individuals / organization to quickly setup a documentation or readme. If you want to contribute, pull requests are always welcome.Pull request to add features rules.
+
+- [Fork](https://github.com/askbuddie/readme/fork) the project
+- Add a `feature-branch` and add your features
+- Send pull request and wait to merge.
 
 Check the [installation](#installation) section to start contributing to this project.
+
+
 
 **Sample list below**
 
